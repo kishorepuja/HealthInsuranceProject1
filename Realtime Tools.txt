@@ -178,7 +178,7 @@ Commit
 Show diff
 Update
 Delete
-Show History
+Show Log
 Lock
 Merge and   
 Revert  etc.
@@ -220,6 +220,28 @@ Green color - > Local code is in sync with repostiory
 Red color -> Changes are in local, shoud commit to repo
 
 Blue color -> New files are added, we should commit to repo.
+
+
+https://server/svn/HIS-Application/trunk
+
+https://server/svn/HIS-Application/branches
+
+https://server/svn/HIS-Application/tags
+
+
+trunk : ongoing develeopment
+
+branches : SIT and UAT code bases
+
+tags : Production code
+----------------------------------------------------------------------------
+
+We can use SVN directly from IDE with the help of Subclipse plugin.
+
+Note : By default this plugin will not be available, we have to install in IDE.
+
+
+
 
 
 
